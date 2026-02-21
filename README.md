@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-### Hokage nande datebaayo 
-
 <!--
 **MohamedZakaria41/MohamedZakaria41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
